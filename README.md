@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Tayyabali Shaikh 👋
 
-<!--
-**tayyabali7200/tayyabali7200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering student at MME.
 
-Here are some ideas to get you started:
+I'm interested in electronics, embedded systems, and IoT. I enjoy trying out new things, working with microcontrollers, and building projects that help me learn more about hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I'm learning
+- C and C++
+- Python
+- ESP32 and Arduino
+- Embedded Systems and IoT
+- Git and GitHub
+
+###  Projects
+- Working on ESP32-based IoT projects
+- Experimenting with sensors and electronic components
+- Building projects that connect hardware with software
+
+### 🎯 What I'm aiming for
+- Get better at programming and electronics
+- Build more practical projects
+- Learn PCB design and microcontrollers
+- Work on ideas that solve real-world problems
+
+### 📌 A little about me
+I'm still learning, and I use every project as a chance to improve. This profile is where I'll share what I build, what I learn, and my progress along the way.
+
+Thanks for visiting!
