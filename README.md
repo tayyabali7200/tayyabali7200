@@ -1,6 +1,6 @@
 # Hey, I'm Tayyabali Shaikh 👋
 
-🎓 Electronics and Communication Engineering student at MME.
+🎓 Electronics and Communication Engineering student at MMEC.
 
 I'm interested in electronics, embedded systems, and IoT. I enjoy trying out new things, working with microcontrollers, and building projects that help me learn more about hardware and software.
 
